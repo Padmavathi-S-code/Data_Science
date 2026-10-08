@@ -17,10 +17,7 @@ This repository contains my notes, code, projects, coursework, and competition w
 - Unsupervised Learning
 - Time Series Analysis
 - Additional Data Science and Machine Learning topics
-
-## GCI 2026
-
-This repository also documents my learning and coursework from the GCI 2026 Data Science program.
+- 
 
 ## Projects
 
