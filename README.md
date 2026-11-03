@@ -17,7 +17,10 @@ This repository contains my notes, code, projects, coursework, and competition w
 - Unsupervised Learning
 - Time Series Analysis
 - Additional Data Science and Machine Learning topics
+<<<<<<< HEAD
 - 
+=======
+>>>>>>> cf38404 (docs: made some changes in README.md)
 
 ## Projects
 
